@@ -8,5 +8,4 @@ main() {
   for (var items = "#"; items != "######"; items += "#") {
     print(items);
   }
-
 }
